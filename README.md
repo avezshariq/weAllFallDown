@@ -1,5 +1,5 @@
 # weAllFallDown
-simple Javascript game
+simple Javascript game. The rectangular blocks keep moving upwards. You can navigate the ball using arrow or WASD keys. The goal is to not touch the top boundary
 ## Start Screen
 ![image](https://user-images.githubusercontent.com/79614977/189538562-003cf9b8-aec4-4507-8045-2dee2fa4dfc5.png)
 ## In game screen
