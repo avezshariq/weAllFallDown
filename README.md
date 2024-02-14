@@ -1,5 +1,5 @@
 # weAllFallDown
-simple Javascript game. The rectangular blocks keep moving upwards. You can navigate the ball using arrow or WASD keys. The goal is to not touch the top boundary
+This is a simple scroll game made in HTML+CSS+Vanilla JS. The rectangular blocks keep going up. There are randomised breaks in the rectangular blocks. A ball needs to fall down through them and avoid touching the top boundary of the screen, for as long as possible. The ball can also cross the left boundary and emerge from the right boundary and vice versa. This gives the player strategic advantage sometimes.
 ## Start Screen
 ![image](https://user-images.githubusercontent.com/79614977/189538562-003cf9b8-aec4-4507-8045-2dee2fa4dfc5.png)
 ## In game screen
